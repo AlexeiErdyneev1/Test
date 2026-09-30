@@ -1,0 +1,358 @@
+{
+  "target": "Terraria Desktop 1.4.5.x resource-pack layout (verify against the exact installed build before release)",
+  "assets": [
+    {
+      "path": "Content/Images/Item_1.png",
+      "name": "Iron Pickaxe",
+      "size": [
+        32,
+        32
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/Item_4.png",
+      "name": "Iron Broadsword",
+      "size": [
+        36,
+        36
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/Item_6.png",
+      "name": "Iron Shortsword",
+      "size": [
+        32,
+        32
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/Item_7.png",
+      "name": "Iron Hammer",
+      "size": [
+        38,
+        38
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/Item_10.png",
+      "name": "Iron Axe",
+      "size": [
+        34,
+        30
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/Tiles_0.png",
+      "name": "Dirt Block",
+      "size": [
+        288,
+        270
+      ],
+      "grid": [
+        16,
+        15
+      ],
+      "frame": [
+        16,
+        16
+      ],
+      "stride": [
+        18,
+        18
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/Tiles_1.png",
+      "name": "Stone Block",
+      "size": [
+        288,
+        270
+      ],
+      "grid": [
+        16,
+        15
+      ],
+      "frame": [
+        16,
+        16
+      ],
+      "stride": [
+        18,
+        18
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/Tiles_6.png",
+      "name": "Iron Ore",
+      "size": [
+        288,
+        270
+      ],
+      "grid": [
+        16,
+        15
+      ],
+      "frame": [
+        16,
+        16
+      ],
+      "stride": [
+        18,
+        18
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/NPC_1.png",
+      "name": "Blue Slime / Abyssal Slime",
+      "size": [
+        32,
+        52
+      ],
+      "grid": [
+        1,
+        2
+      ],
+      "frame": [
+        32,
+        26
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/HP Template.png",
+      "name": "Horizontal HP template",
+      "size": [
+        56,
+        68
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/HP_Fill.png",
+      "name": "Horizontal HP fill",
+      "size": [
+        12,
+        12
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/HP_Fill_Honey.png",
+      "name": "Honey HP fill",
+      "size": [
+        12,
+        12
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/HP_Panel_Middle.png",
+      "name": "HP panel middle",
+      "size": [
+        12,
+        24
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/HP_Panel_Right.png",
+      "name": "HP panel right",
+      "size": [
+        46,
+        38
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/MP_Fill.png",
+      "name": "MP fill",
+      "size": [
+        12,
+        12
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/MP_Panel_Middle.png",
+      "name": "MP panel middle",
+      "size": [
+        12,
+        24
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/MP_Panel_Right.png",
+      "name": "MP panel right",
+      "size": [
+        46,
+        40
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/HorizontalBars/Panel_Left.png",
+      "name": "Horizontal panel left",
+      "size": [
+        6,
+        24
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/FancyClassic/Heart_Fill.png",
+      "name": "Life heart",
+      "size": [
+        22,
+        22
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/FancyClassic/Heart_Fill_B.png",
+      "name": "Golden life heart",
+      "size": [
+        22,
+        22
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/FancyClassic/Star_A.png",
+      "name": "Mana star A",
+      "size": [
+        30,
+        26
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/FancyClassic/Star_B.png",
+      "name": "Mana star B",
+      "size": [
+        30,
+        22
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/FancyClassic/Star_C.png",
+      "name": "Mana star C",
+      "size": [
+        30,
+        28
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/FancyClassic/Star_Fill.png",
+      "name": "Mana star fill",
+      "size": [
+        22,
+        24
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    },
+    {
+      "path": "Content/Images/UI/PlayerResourceSets/FancyClassic/Star_Single.png",
+      "name": "Single mana star",
+      "size": [
+        30,
+        32
+      ],
+      "grid": [
+        1,
+        1
+      ],
+      "stage": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Editor and OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local vanilla texture exports: proprietary game files must never enter the repository.
+vanilla-export/
+TerrariaVanilla/
+
+# Ad-hoc preview renders; the curated release archive is intentionally tracked.
+preview/
+*.aseprite
